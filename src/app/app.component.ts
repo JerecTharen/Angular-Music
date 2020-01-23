@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'pcg-music';
+  test = 'this is a test of the class';
 }
