@@ -12,7 +12,6 @@ import { FirstPageComponent } from './FirstPage.component';
     BrowserModule,
     AppRoutingModule
   ],
-  exports: [FirstPageModule],
   providers: [],
   bootstrap: [FirstPageComponent]
 })
